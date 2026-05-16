@@ -18,14 +18,4 @@ As I said before, I'm a noob so I'm not very good at the languages below, but lu
 <br />
 <br />
 <br />
-## 소셜미디어 / Social Media
-(KOR/ENG)
-제 소셜미디어 계정들입니다. 언젠든지 친구 요청이나 팔로우 거셔도 괜찮습니다.
-These are my social media accounts. Feel free to follow or send a friend req.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/%40teho_ney-%23FF0069?logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fteho_ney%2F">
-  <img src="https://img.shields.io/badge/Tehoney-%23FF0000?logo=youtube&logoColor=white&link=https%3A%2F%2Fwww.youtube.com%2F%40tehoney">
-  <img src="https://img.shields.io/badge/tehoney-%235865F2?logo=discord&logoColor=white">
-</div>
-
 Copyright ⓒ Tehoney
