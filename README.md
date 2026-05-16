@@ -8,12 +8,10 @@ Hi! I'm a high school student who just started developing. I go to a software-sp
 
 ## 제가 쓸 줄 아는 언어 / Languages I can use
 (KOR/ENG)
-위에서 말했다싶이, 저는 아직 초보자라서 아래 있는 언어들도 썩 잘하진 않지만, 한번쯤은 배워봐서 아예 모르진 않습니다.
-As I said before, I'm a noob so I'm not very good at the languages below, but luckily I know the basics at least.
+위에서 말했다싶이, 저는 아직 초보자라서 아래 있는 언어들도 썩 잘하진 않지만, 한번쯤은 배워봐서 아예 모르진 않습니다. 나중에 더 많은 언어를 추가할 수 있겠죠?
+As I said before, I'm a noob so I'm not very good at the languages below, but luckily I know the basics at least. Hopefully I can add more languages here.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 <br />
 <br />
